@@ -31,9 +31,9 @@ unsigned char swapFourBitChunks(unsigned char byte){
 }
 
 
-void decrypt_message(string mensagem){
+void decrypt_message(string message){
 
-   vector<string> bytes = split(mensagem,' ');
+   vector<string> bytes = split(message,' ');
    
    for(int i=0; i < bytes.size(); i++){
       unsigned char bit = static_cast<unsigned char>(bitset<8>(bytes[i]).to_ulong());
@@ -46,9 +46,9 @@ void decrypt_message(string mensagem){
 
 int main(){
 
-   string mensagem = "10010110 11110111 01010110 00000001 00010111 00100110 01010111 00000001 00010111 01110110 01010111 00110110 11110111 11010111 01010111 00000011";
+   string message = "10010110 11110111 01010110 00000001 00010111 00100110 01010111 00000001 00010111 01110110 01010111 00110110 11110111 11010111 01010111 00000011";
 
-   decrypt_message(mensagem);
+   decrypt_message(message);
 
    return 0;
 }
