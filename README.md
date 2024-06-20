@@ -1,25 +1,25 @@
 # Soluções dos desafios do [Quero ser Intelitrader](https://github.com/intelitrader/quero-ser/tree/master)
 
 
+
 ## desafio 1 - Criptografia na rede do navio
+   **Descrição:**
+   Neste desafio, você precisa implementar um sistema de descriptografia para garantir a segurança das mensagens trocadas na rede de comunicação de um navio.
 
-   * ### [👉 Clique aqui para a explicação detalhada do desafio proposto 👈](/desafio1-criptografia-navio/README.md)
+   * ### [👉 Clique aqui para seguir as instruções  👈](/desafio1-criptografia-navio/README.md)
    
-   * ### [👉 Clique aqui para executar o código online 👈](https://replit.com/@cleversonsilvac/criptografia-na-rede-do-navio#main.cpp)
-
-   > **obs:** para poder executar o codigo online, clique no botão **"Fork"**
-   
-   ![](https://imgur.com/26S0H8Z.png)
 
 ## desafio 2 - Menor distância de dois arrays
+   **Descrição:** O objetivo deste desafio é encontrar a menor distância possível entre elementos de dois arrays distintos. 
+   * ### [👉 Clique aqui para seguir as instruções 👈](/menor-distancia-de-dois-arrays/README.md)
 
-   * ### [👉 Clique aqui para a explicação detalhada do desafio proposto 👈](/menor-distancia-de-dois-arrays/README.md)
 
-   * ### [👉 Clique aqui para executar o código online 👈](https://replit.com/@cleversonsilvac/Menor-distancia-de-dois-arrays#main.cpp)
 
- > **obs:** para poder executar o código online, clique no botão **"Fork"**
+## desafio 3 - Livro de ofertas
 
-   ![](https://imgur.com/GlaR9GL.png)
+   **Descrição:** Neste desafio, você deve construir um livro de ofertas para um sistema de trading, que permita a inserção, atualização e remoção de ordens de compra e venda.
+
+   * ### [👉 Clique aqui para seguir as instruções 👈](/livro-de-ofertas/README.md)
 
 
 

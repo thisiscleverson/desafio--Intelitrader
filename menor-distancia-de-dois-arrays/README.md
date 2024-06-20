@@ -13,10 +13,18 @@ Use arrays com tamanho maiores ou iguais a 10 números.
 
 ## Como executar o código
 
- ### [👉 Clique aqui para executar o código online 👈](https://replit.com/@cleversonsilvac/Menor-distancia-de-dois-arrays#main.cpp)
+### [👉 Clique aqui para executar o código online 👈](https://www.mycompiler.io/view/7HdvSqupDsb)
 
- > **obs:** para poder executar o código online, clique no botão **"Fork"**
-   ![](https://imgur.com/GlaR9GL.png)
+Você verá o seguinte resultado:
+
+![](https://imgur.com/7m2Z9q8.png)
+
+
+Você pode mudar os valores dos arrays:
+```c++
+  int array1[] = {1, 2, 3, 5, 7};
+  int array2[] = {10, 20, 30, 40};
+```
 
 
 
