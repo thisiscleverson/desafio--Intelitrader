@@ -6,7 +6,7 @@
    **Descrição:**
    Neste desafio, você precisa implementar um sistema de descriptografia para garantir a segurança das mensagens trocadas na rede de comunicação de um navio.
 
-   * ### [👉 Clique aqui para seguir as instruções  👈](/desafio1-criptografia-navio/README.md)
+   * ### [👉 Clique aqui para seguir as instruções  👈](/criptografia-navio/README.md)
    
 
 ## desafio 2 - Menor distância de dois arrays
