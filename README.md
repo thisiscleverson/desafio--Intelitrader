@@ -4,7 +4,7 @@
 
 ## desafio 1 - Criptografia na rede do navio
    **Descrição:**
-   Neste desafio, você precisa implementar um sistema de descriptografia para garantir a segurança das mensagens trocadas na rede de comunicação de um navio.
+   Neste desafio, você precisa implementar um sistema de descriptografia para descobrir a mensagem trocadas na rede de comunicação de um navio.
 
    * ### [👉 Clique aqui para seguir as instruções  👈](/criptografia-navio/README.md)
    
