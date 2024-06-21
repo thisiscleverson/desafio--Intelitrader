@@ -97,9 +97,6 @@ Cada operação na livro gera uma nova mensagem que é composta por 4 paramêtro
    4       | 16.59 | 20
 </details>
 
-#
-
-## Como executar o código
 
 ## Como executar o código
 
