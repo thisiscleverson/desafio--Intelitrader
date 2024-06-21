@@ -62,8 +62,8 @@ int findShortestDistance(int arr1[], int arr2[], int lengthArray1, int lengthArr
 
 int main(){
 
-   int array1[] = {1, 2, 3, 5, 7};
-   int array2[] = {10, 20, 30, 40};
+   int array1[] = {1, 2, 3, 5, 7,-1,-8,5,-4,-9};
+   int array2[] = {10, 20, 30, 40, 26,6,-12,45,99,100};
    
    int lengthArray1 = sizeof(array1)/sizeof(array1[0]);
    int lengthArray2 = sizeof(array2)/sizeof(array2[0]);

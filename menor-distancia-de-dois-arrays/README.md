@@ -17,13 +17,13 @@ Use arrays com tamanho maiores ou iguais a 10 números.
 
 Você verá o seguinte resultado:
 
-![](https://imgur.com/7m2Z9q8.png)
+![](https://imgur.com/Sfa9xjg.png)
 
 
 Você pode mudar os valores dos arrays:
 ```c++
-  int array1[] = {1, 2, 3, 5, 7};
-  int array2[] = {10, 20, 30, 40};
+  int array1[] = {1, 2, 3, 5, 7,-1,-8,5,-4,-9};
+  int array2[] = {10, 20, 30, 40, 26,6,-12,45,99,100};
 ```
 
 
